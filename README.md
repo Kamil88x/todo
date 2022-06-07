@@ -1,0 +1,19 @@
+
+# WToDo List
+The application was created as a part of MMC School course.
+## Technologies Used
+- HTML
+- CSS
+- SCSS
+- JavaScript
+
+
+## Live Version
+
+- The live version is available [Link](https://kamil88x.github.io/todo/)
+
+
+## Project Status
+Project is completed.
+
+
