@@ -1,5 +1,5 @@
 
-# WToDo List
+# ToDo List
 The application was created as a part of MMC School course.
 ## Technologies Used
 - HTML
